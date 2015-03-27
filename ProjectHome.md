@@ -1,0 +1,1 @@
+The as3cards project provides a skinnable ActionScript 3.0 card engine for creating playing card games, with an example implementation of Klondike Solitaire.
